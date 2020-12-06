@@ -1,6 +1,6 @@
 /******************************************************************************************
 * Compilation: javac a3_stringconcat.java 
-* Exection: java a3_stringconcat sometext
+* Exection: java a3_stringconcat 
 *
 * Prints concatenated strings
 *******************************************************************************************/
