@@ -1,11 +1,11 @@
 /******************************************************************************************
-* Compilation: javac Argument.java 
-* Exection: java Argument sometext
+* Compilation: javac a3_stringconcat.java 
+* Exection: java a3_stringconcat sometext
 *
 * Prints concatenated strings
 *******************************************************************************************/
 
-public class StringConcatenation {
+public class a3_stringconcat {
   public static void main(String[] args) {   
     String part1 = " * ";
     String part2 = part1 + " # " + part1; 

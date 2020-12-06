@@ -1,17 +1,17 @@
 /********************************************************************************************************************
  *  Compiling a Java Program:    (this creates an output file with ".class" extension, for example, HelloWorld.class)
  *  -------------------------
- *  > javac HelloWorld.java    
+ *  > javac a1_helloworld.java    
 
  *  Executing(Running) a Java Program: 
    -----------------------------------
- * > java HelloWorld
+ * > java a1_helloworld
 *********************************************************************************************************************/
 
-public class HelloWorld {
+public class a1_helloworld {
    public static void main(String[] args) {   
       // Prints "Hello, World" in console            
-      System.out.println("Hello " + args[0] + "!");
+      System.out.println("Hello World!");
       
    }
-}
+}//
