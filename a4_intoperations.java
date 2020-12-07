@@ -1,6 +1,6 @@
 /******************************************************************************************
-* Compilation: javac a3_intoperations.java 
-* Exection: java a3_intoperations a b
+* Compilation: javac a4_intoperations.java 
+* Exection: java a4_intoperations a b
 *
 * Integer operations a + b, a-b, a * b, a / b, a % b
 * 

@@ -7,8 +7,11 @@
 
 public class a2_argument {
   public static void main(String[] args) {   
+      //gets input from user (command line/terminal)
+      string name = args[0]; 
+
       System.out.print("Hello ");
-      System.out.print(args[0]);
+      System.out.print(name);
       System.out.print("!");      
       System.out.println(); //prints new line     
   }
